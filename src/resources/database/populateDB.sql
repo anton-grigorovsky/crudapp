@@ -1,0 +1,15 @@
+INSERT INTO test.users (id, name, age, isAdmin) VALUES ('1', 'Bob', '23', '1');
+INSERT INTO test.users (id, name, age, isAdmin) VALUES ('2', 'Alice', '11', '0');
+INSERT INTO test.users (id, name, age, isAdmin) VALUES ('3', 'John', '73', '0');
+INSERT INTO test.users (id, name, age, isAdmin) VALUES ('4', 'Mary', '46', '0');
+INSERT INTO test.users (id, name, age, isAdmin) VALUES ('5', 'Dan', '33', '0');
+INSERT INTO test.users (id, name, age, isAdmin) VALUES ('6', 'Ros', '12', '0');
+INSERT INTO test.users (id, name, age, isAdmin) VALUES ('7', 'Michael', '19', '0');
+INSERT INTO test.users (id, name, age, isAdmin) VALUES ('8', 'Katy', '44', '0');
+INSERT INTO test.users (id, name, age, isAdmin) VALUES ('9', 'Monica', '39', '0');
+INSERT INTO test.users (id, name, age, isAdmin) VALUES ('10', 'Stan', '53', '0');
+INSERT INTO test.users (id, name, age, isAdmin) VALUES ('11', 'Max', '8', '0');
+INSERT INTO test.users (id, name, age, isAdmin) VALUES ('12', 'Judie', '11', '0');
+INSERT INTO test.users (id, name, age, isAdmin) VALUES ('13', 'Lola', '21', '0');
+INSERT INTO test.users (id, name, age, isAdmin) VALUES ('14', 'Bob', '41', '0');
+INSERT INTO test.users (id, name, age, isAdmin) VALUES ('15', 'Angel', '22', '0');
